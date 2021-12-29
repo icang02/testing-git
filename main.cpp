@@ -8,4 +8,4 @@ int main() {
     return 0;
 }
 
-parent of 5da536e (tambah komentar)
+// tambahan komentar teks
