@@ -7,8 +7,3 @@ int main() {
 
     return 0;
 }
-
-// tambahan komentar teks
-
-
-// ini branch ilmi faizan
