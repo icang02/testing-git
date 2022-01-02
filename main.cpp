@@ -5,6 +5,7 @@ int main() {
 
     cout << "Hello World";
     cout << "Teknik Informatika";
+    // komentar
 
     return 0;
 }
