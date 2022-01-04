@@ -10,7 +10,4 @@ int main() {
     return 0;
 }
 
-// tambahan komentar teks
-
-
-// komentar yang baru di push
+// teks saja
