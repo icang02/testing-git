@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-//halo
+//halooo kawan
     cout << "Hello World";
     cout << "Teknik Informatika";
     // komentar
